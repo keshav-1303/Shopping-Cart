@@ -1,4 +1,4 @@
-# Shopping Cart App
+# Shopping Cart App using React
 
 A simple shopping cart application built with React and Redux that allows users to manage items in their cart.
 
